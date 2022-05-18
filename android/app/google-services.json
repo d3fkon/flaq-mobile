@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "504299671740",
+    "project_id": "flaq-app",
+    "storage_bucket": "flaq-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504299671740:android:e7b08eb03ba1a7ffa480b9",
+        "android_client_info": {
+          "package_name": "club.flaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504299671740-0j8g19qduia6n6n2o3mc9ehg4bh02fj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfN9MGP9K3MmQ3pYAOKk0dDXZAHZDNbh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504299671740-0j8g19qduia6n6n2o3mc9ehg4bh02fj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504299671740-1i45uh3i4qlm6nihcjnictk8r73ik0uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "club.flaq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
